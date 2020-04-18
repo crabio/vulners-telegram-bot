@@ -1,0 +1,47 @@
+version: "3"
+
+services:
+
+  # VPN Client container to rout traffic through VPN Server
+  vpn:
+    image: dperson/openvpn-client
+    restart: unless-stopped
+    # cap_add, security_opt, and volume required for the image to function
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+    cap_add:
+      - NET_ADMIN
+    devices:
+      - '/dev/net/tun:/dev/net/tun:rwm'
+    environment:
+      FIREWALL: ''
+      PUID: 1000
+      PGID: 1000
+      TZ: PST8PDT
+      ROUTE: '192.168.0.0/16'
+    read_only: true
+    tmpfs:
+      - /run
+      - /tmp
+    security_opt:
+      - label:disable
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./openvpn:/vpn
+
+# Telegram Bot
+  vulners_telegram_bot:
+    build: .
+    restart: unless-stopped
+    network_mode: "service:vpn"
+    environment:
+      - "SITE_URL=https://vulners.com/rss.xml"
+      - "STORAGE_MAX_LEN=100"
+      - "WAIT_TIME_SECONDS=30"
+      # - "LOGGING_DEBUG=True"
+      - "TELEGRAM_TOKEN=<your token>"
+      - "TELEGRAM_CHAT_ID=<your chat id>"
+    depends_on: 
+      - vpn
