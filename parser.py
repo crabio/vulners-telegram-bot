@@ -8,25 +8,25 @@ from logger_helper import create_logger
 
 
 class Parser:
-    def __init__(self, siteUrl, storageMaxLen=100, debug=False):
+    def __init__(self, siteUrl, storageMaxLen=100, debug=False, searchQueries=[]):
         self._messagesStorage = deque(maxlen=storageMaxLen)
         self._siteUrl = siteUrl
+        self._searchQueries = searchQueries
 
         self._logger = create_logger("parser")
         if debug:
             self._logger = create_logger("parser", logging.DEBUG)
 
     def request_data(self):
-        response = requests.get(self._siteUrl,
-                                params={
-                                    'query': '((type:mscve AND cvss.score:[8 TO 10]) OR (type:cve AND description:Microsoft AND cvss.score:[8 TO 10])) order:published'
-                                })
+        # Itterate over all queries
+        for query in self._searchQueries:
+            response = requests.get(self._siteUrl, params={'query': query})
 
-        if response.status_code == 200:
-            return self.parse_data(response.content)
-        else:
-            self._logger.error(
-                'Failed getting responce from: %s' % self._siteUrl)
+            if response.status_code == 200:
+                return self.parse_data(response.content)
+            else:
+                self._logger.error(
+                    'Failed getting responce from: %s' % self._siteUrl)
 
     def parse_data(self, dataText):
         self._logger.info("Parse data")

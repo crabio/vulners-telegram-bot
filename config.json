@@ -1,0 +1,8 @@
+{
+    "TELEGRAM_TOKEN": "<your token>",
+    "TELEGRAM_CHAT_ID": "<your chat id>",
+    "SEARCH_QUERIES": [
+        "",
+        "((type:mscve AND cvss.score:[8 TO 10]) OR (type:cve AND description:Microsoft AND cvss.score:[8 TO 10])) order:published"
+    ]
+}

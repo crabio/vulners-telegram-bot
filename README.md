@@ -4,7 +4,7 @@ This program designed for periodic parsing messages from Vuluners and publish th
 
 ## Configure
 
-All required configurations are located in `docker-compose.yml` environment variables.
+All required configurations are located in `docker-compose.yml` environment variables and `config.json` file.
 
 ## Run
 
