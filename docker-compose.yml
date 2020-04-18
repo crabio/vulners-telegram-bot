@@ -41,8 +41,7 @@ services:
       - "STORAGE_MAX_LEN=100"
       - "WAIT_TIME_SECONDS=30"
       # - "LOGGING_DEBUG=True"
-      - "TELEGRAM_TOKEN=1233255373:AAFjUF24uzSFl207c_IPIeuZy1oO1HQqB-g"
-      - "TELEGRAM_CHAT_ID=288995475"
+      - "TELEGRAM_TOKEN=<your token>"
+      - "TELEGRAM_CHAT_ID=<your chat id>"
     depends_on: 
       - vpn
-
