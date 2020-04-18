@@ -1,0 +1,776 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+    xmlns:turbo="http://turbo.yandex.ru" 
+    xmlns:webfeeds="http://webfeeds.org/rss/1.0" 
+    xmlns:yandex="http://news.yandex.ru">
+    <channel>
+        <title>Vulners.com RSS Feed</title>
+        <link>https://vulners.com</link>
+        <description>The latest security news and vulnerability data</description>
+        <lastBuildDate>Sat, 18 Apr 2020 14:41:45 GMT</lastBuildDate>
+        <generator>Python Etree based generator by isox@vulners.com</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <webfeeds:logo>http://vulners.com/static/img/logo.png</webfeeds:logo>
+        <webfeeds:accentColor>#FF6600</webfeeds:accentColor>
+        <webfeeds:icon>https://vulners.com/favicon.ico</webfeeds:icon>
+        <language>en</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <atom:link href="https://vulners.com/rss.xml" rel="self" type="application/rss+xml" />
+        <yandex:analytics id="34503445" type="Yandex" />
+        <item turbo="true">
+            <title>CVE-2020-0687</title>
+            <link>https://vulners.com/cve/CVE-2020-0687?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0687?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 15 Apr 2020 15:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0961</title>
+            <link>https://vulners.com/cve/CVE-2020-0961?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0961?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Microsoft Office Access Connectivity Engine improperly handles objects in memory, aka &amp;#x27;Microsoft Office Access Connectivity Engine Remote Code Execution...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Microsoft Office Access Connectivity Engine improperly handles objects in memory, aka &amp;#x27;Microsoft Office Access Connectivity Engine Remote Code Execution...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 15 Apr 2020 15:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0906</title>
+            <link>https://vulners.com/cve/CVE-2020-0906?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0906?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 15 Apr 2020 15:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-19676</title>
+            <link>https://vulners.com/cve/CVE-2019-19676?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-19676?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A CSV injection in arxes-tolina 3.0.0 allows malicious users to gain remote control of other computers. By entering formula code in the following columns: Kundennummer, Firma, Street, PLZ, Ort, Zahlziel, and Bemerkung, an attacker can create a user with a name that contains malicious code. Other users might download this data as a CSV file and corrupt their PC by opening it in a tool such as Microsoft Excel. The attacker could gain remote access to the user&amp;#x27;s...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A CSV injection in arxes-tolina 3.0.0 allows malicious users to gain remote control of other computers. By entering formula code in the following columns: Kundennummer, Firma, Street, PLZ, Ort, Zahlziel, and Bemerkung, an attacker can create a user with a name that contains malicious code. Other users might download this data as a CSV file and corrupt their PC by opening it in a tool such as Microsoft Excel. The attacker could gain remote access to the user&amp;#x27;s...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 18 Mar 2020 22:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0892</title>
+            <link>https://vulners.com/cve/CVE-2020-0892?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0892?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Word Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0850, CVE-2020-0851, CVE-2020-0852,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Word Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0850, CVE-2020-0851, CVE-2020-0852,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Thu, 12 Mar 2020 16:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0855</title>
+            <link>https://vulners.com/cve/CVE-2020-0855?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0855?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Word Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0850, CVE-2020-0851, CVE-2020-0852,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Word Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0850, CVE-2020-0851, CVE-2020-0852,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Thu, 12 Mar 2020 16:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0852</title>
+            <link>https://vulners.com/cve/CVE-2020-0852?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0852?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Word Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0850, CVE-2020-0851, CVE-2020-0855,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Word Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0850, CVE-2020-0851, CVE-2020-0855,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Thu, 12 Mar 2020 16:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0851</title>
+            <link>https://vulners.com/cve/CVE-2020-0851?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0851?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Word Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0850, CVE-2020-0852, CVE-2020-0855,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Word Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0850, CVE-2020-0852, CVE-2020-0855,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Thu, 12 Mar 2020 16:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0816</title>
+            <link>https://vulners.com/cve/CVE-2020-0816?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0816?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when Microsoft Edge improperly accesses objects in memory, aka &amp;#x27;Microsoft Edge Memory Corruption...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when Microsoft Edge improperly accesses objects in memory, aka &amp;#x27;Microsoft Edge Memory Corruption...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Thu, 12 Mar 2020 16:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-3127</title>
+            <link>https://vulners.com/cve/CVE-2020-3127?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-3127?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities are due to insufficient validation of certain elements within a Webex recording that is stored in either the Advanced Recording Format (ARF) or the Webex Recording Format (WRF). An attacker could exploit these vulnerabilities by sending a malicious ARF or WRF file to a user through a link or email attachment and persuading the user to open the file on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities are due to insufficient validation of certain elements within a Webex recording that is stored in either the Advanced Recording Format (ARF) or the Webex Recording Format (WRF). An attacker could exploit these vulnerabilities by sending a malicious ARF or WRF file to a user through a link or email attachment and persuading the user to open the file on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 04 Mar 2020 19:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-3128</title>
+            <link>https://vulners.com/cve/CVE-2020-3128?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-3128?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities are due to insufficient validation of certain elements within a Webex recording that is stored in either the Advanced Recording Format (ARF) or the Webex Recording Format (WRF). An attacker could exploit these vulnerabilities by sending a malicious ARF or WRF file to a user through a link or email attachment and persuading the user to open the file on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities are due to insufficient validation of certain elements within a Webex recording that is stored in either the Advanced Recording Format (ARF) or the Webex Recording Format (WRF). An attacker could exploit these vulnerabilities by sending a malicious ARF or WRF file to a user through a link or email attachment and persuading the user to open the file on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 04 Mar 2020 19:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2012-6277</title>
+            <link>https://vulners.com/cve/CVE-2012-6277?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2012-6277?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple unspecified vulnerabilities in Autonomy KeyView IDOL before 10.16, as used in Symantec Mail Security for Microsoft Exchange before 6.5.8, Symantec Mail Security for Domino before 8.1.1, Symantec Messaging Gateway before 10.0.1, Symantec Data Loss Prevention (DLP) before 11.6.1, IBM Notes 8.5.x, IBM Lotus Domino 8.5.x before 8.5.3 FP4, and other products, allow remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted file, related to &amp;quot;a number of underlying issues&amp;quot; in which &amp;quot;some of these cases demonstrated memory corruption with attacker-controlled input and could be exploited to run arbitrary...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple unspecified vulnerabilities in Autonomy KeyView IDOL before 10.16, as used in Symantec Mail Security for Microsoft Exchange before 6.5.8, Symantec Mail Security for Domino before 8.1.1, Symantec Messaging Gateway before 10.0.1, Symantec Data Loss Prevention (DLP) before 11.6.1, IBM Notes 8.5.x, IBM Lotus Domino 8.5.x before 8.5.3 FP4, and other products, allow remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted file, related to &amp;quot;a number of underlying issues&amp;quot; in which &amp;quot;some of these cases demonstrated memory corruption with attacker-controlled input and could be exploited to run arbitrary...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Fri, 21 Feb 2020 17:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0759</title>
+            <link>https://vulners.com/cve/CVE-2020-0759?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0759?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Tue, 11 Feb 2020 22:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0688</title>
+            <link>https://vulners.com/cve/CVE-2020-0688?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0688?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Exchange Memory Corruption...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Exchange Memory Corruption...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Tue, 11 Feb 2020 22:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0650</title>
+            <link>https://vulners.com/cve/CVE-2020-0650?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0650?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0651,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0651,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Tue, 14 Jan 2020 23:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0651</title>
+            <link>https://vulners.com/cve/CVE-2020-0651?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0651?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0650,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0650,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Tue, 14 Jan 2020 23:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0646</title>
+            <link>https://vulners.com/cve/CVE-2020-0646?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0646?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Microsoft .NET Framework fails to validate input properly, aka &amp;#x27;.NET Framework Remote Code Execution Injection...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Microsoft .NET Framework fails to validate input properly, aka &amp;#x27;.NET Framework Remote Code Execution Injection...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Tue, 14 Jan 2020 23:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2020-0653</title>
+            <link>https://vulners.com/cve/CVE-2020-0653?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2020-0653?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0650,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2020-0650,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Tue, 14 Jan 2020 23:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1462</title>
+            <link>https://vulners.com/cve/CVE-2019-1462?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1462?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft PowerPoint software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft PowerPoint Remote Code Execution...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft PowerPoint software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft PowerPoint Remote Code Execution...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Tue, 10 Dec 2019 22:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-15284</title>
+            <link>https://vulners.com/cve/CVE-2019-15284?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-15284?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist due to insufficient validation of certain elements with a Webex recording stored in either the Advanced Recording Format (ARF) or the Webex Recording Format (WRF). An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist due to insufficient validation of certain elements with a Webex recording stored in either the Advanced Recording Format (ARF) or the Webex Recording Format (WRF). An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Tue, 26 Nov 2019 03:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-15286</title>
+            <link>https://vulners.com/cve/CVE-2019-15286?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-15286?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist due to insufficient validation of certain elements with a Webex recording stored in either the Advanced Recording Format (ARF) or the Webex Recording Format (WRF). An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist due to insufficient validation of certain elements with a Webex recording stored in either the Advanced Recording Format (ARF) or the Webex Recording Format (WRF). An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Tue, 26 Nov 2019 03:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1430</title>
+            <link>https://vulners.com/cve/CVE-2019-1430?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1430?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when Windows Media Foundation improperly parses specially crafted QuickTime media files.An attacker who successfully exploited this vulnerability could gain the same user rights as the local user, aka &amp;#x27;Microsoft Windows Media Foundation Remote Code Execution...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when Windows Media Foundation improperly parses specially crafted QuickTime media files.An attacker who successfully exploited this vulnerability could gain the same user rights as the local user, aka &amp;#x27;Microsoft Windows Media Foundation Remote Code Execution...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Tue, 12 Nov 2019 19:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1448</title>
+            <link>https://vulners.com/cve/CVE-2019-1448?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1448?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Tue, 12 Nov 2019 19:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1449</title>
+            <link>https://vulners.com/cve/CVE-2019-1449?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1449?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A security feature bypass vulnerability exists in the way that Office Click-to-Run (C2R) components handle a specially crafted file, which could lead to a standard user, any AppContainer sandbox, and Office LPAC Protected View to escalate privileges to SYSTEM.To exploit this bug, an attacker would have to run a specially crafted file, aka &amp;#x27;Microsoft Office ClickToRun Security Feature Bypass...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A security feature bypass vulnerability exists in the way that Office Click-to-Run (C2R) components handle a specially crafted file, which could lead to a standard user, any AppContainer sandbox, and Office LPAC Protected View to escalate privileges to SYSTEM.To exploit this bug, an attacker would have to run a specially crafted file, aka &amp;#x27;Microsoft Office ClickToRun Security Feature Bypass...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Tue, 12 Nov 2019 19:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-17661</title>
+            <link>https://vulners.com/cve/CVE-2019-17661?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-17661?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A CSV injection in the codepress-admin-columns (aka Admin Columns) plugin 3.4.6 for WordPress allows malicious users to gain remote control of other computers. By choosing formula code as his first or last name, an attacker can create a user with a name that contains malicious code. Other users might download this data as a CSV file and corrupt their PC by opening it in a tool such as Microsoft Excel. The attacker could gain remote access to the user&amp;#x27;s...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A CSV injection in the codepress-admin-columns (aka Admin Columns) plugin 3.4.6 for WordPress allows malicious users to gain remote control of other computers. By choosing formula code as his first or last name, an attacker can create a user with a name that contains malicious code. Other users might download this data as a CSV file and corrupt their PC by opening it in a tool such as Microsoft Excel. The attacker could gain remote access to the user&amp;#x27;s...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Fri, 08 Nov 2019 18:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1327</title>
+            <link>https://vulners.com/cve/CVE-2019-1327?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1327?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Thu, 10 Oct 2019 14:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1365</title>
+            <link>https://vulners.com/cve/CVE-2019-1365?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1365?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>An elevation of privilege vulnerability exists when Microsoft IIS Server fails to check the length of a buffer prior to copying memory to it.An attacker who successfully exploited this vulnerability can allow an unprivileged function ran by the user to execute code in the context of NT AUTHORITY\system escaping the Sandbox.The security update addresses the vulnerability by correcting how Microsoft IIS Server sanitizes web requests., aka &amp;#x27;Microsoft IIS Server Elevation of Privilege...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>An elevation of privilege vulnerability exists when Microsoft IIS Server fails to check the length of a buffer prior to copying memory to it.An attacker who successfully exploited this vulnerability can allow an unprivileged function ran by the user to execute code in the context of NT AUTHORITY\system escaping the Sandbox.The security update addresses the vulnerability by correcting how Microsoft IIS Server sanitizes web requests., aka &amp;#x27;Microsoft IIS Server Elevation of Privilege...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Thu, 10 Oct 2019 14:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1060</title>
+            <link>https://vulners.com/cve/CVE-2019-1060?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1060?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Microsoft XML Core Services MSXML parser processes user input, aka &amp;#x27;MS XML Remote Code Execution...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Microsoft XML Core Services MSXML parser processes user input, aka &amp;#x27;MS XML Remote Code Execution...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Thu, 10 Oct 2019 14:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1331</title>
+            <link>https://vulners.com/cve/CVE-2019-1331?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1331?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Thu, 10 Oct 2019 14:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1297</title>
+            <link>https://vulners.com/cve/CVE-2019-1297?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1297?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 11 Sep 2019 22:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1280</title>
+            <link>https://vulners.com/cve/CVE-2019-1280?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1280?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Windows that could allow remote code execution if a .LNK file is processed.An attacker who successfully exploited this vulnerability could gain the same user rights as the local user, aka &amp;#x27;LNK Remote Code Execution...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Windows that could allow remote code execution if a .LNK file is processed.An attacker who successfully exploited this vulnerability could gain the same user rights as the local user, aka &amp;#x27;LNK Remote Code Execution...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 11 Sep 2019 22:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1201</title>
+            <link>https://vulners.com/cve/CVE-2019-1201?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1201?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Word Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Word Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 14 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1152</title>
+            <link>https://vulners.com/cve/CVE-2019-1152?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1152?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2019-1144, CVE-2019-1145, CVE-2019-1149, CVE-2019-1150,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2019-1144, CVE-2019-1145, CVE-2019-1149, CVE-2019-1150,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 14 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1144</title>
+            <link>https://vulners.com/cve/CVE-2019-1144?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1144?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2019-1145, CVE-2019-1149, CVE-2019-1150, CVE-2019-1151,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2019-1145, CVE-2019-1149, CVE-2019-1150, CVE-2019-1151,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 14 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1199</title>
+            <link>https://vulners.com/cve/CVE-2019-1199?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1199?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Outlook when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Outlook Memory Corruption...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Outlook when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Outlook Memory Corruption...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 14 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1205</title>
+            <link>https://vulners.com/cve/CVE-2019-1205?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1205?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Word Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Word Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 14 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1145</title>
+            <link>https://vulners.com/cve/CVE-2019-1145?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1145?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2019-1144, CVE-2019-1149, CVE-2019-1150, CVE-2019-1151,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2019-1144, CVE-2019-1149, CVE-2019-1150, CVE-2019-1151,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 14 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1149</title>
+            <link>https://vulners.com/cve/CVE-2019-1149?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1149?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2019-1144, CVE-2019-1145, CVE-2019-1150, CVE-2019-1151,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2019-1144, CVE-2019-1145, CVE-2019-1150, CVE-2019-1151,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 14 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1057</title>
+            <link>https://vulners.com/cve/CVE-2019-1057?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1057?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Microsoft XML Core Services MSXML parser processes user input, aka &amp;#x27;MS XML Remote Code Execution...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Microsoft XML Core Services MSXML parser processes user input, aka &amp;#x27;MS XML Remote Code Execution...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 14 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1200</title>
+            <link>https://vulners.com/cve/CVE-2019-1200?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1200?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Outlook software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Outlook Remote Code Execution...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Outlook software when it fails to properly handle objects in memory, aka &amp;#x27;Microsoft Outlook Remote Code Execution...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 14 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1150</title>
+            <link>https://vulners.com/cve/CVE-2019-1150?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1150?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2019-1144, CVE-2019-1145, CVE-2019-1149, CVE-2019-1151,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2019-1144, CVE-2019-1145, CVE-2019-1149, CVE-2019-1151,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 14 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1188</title>
+            <link>https://vulners.com/cve/CVE-2019-1188?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1188?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Windows that could allow remote code execution if a .LNK file is processed.An attacker who successfully exploited this vulnerability could gain the same user rights as the local user, aka &amp;#x27;LNK Remote Code Execution...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Windows that could allow remote code execution if a .LNK file is processed.An attacker who successfully exploited this vulnerability could gain the same user rights as the local user, aka &amp;#x27;LNK Remote Code Execution...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 14 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1151</title>
+            <link>https://vulners.com/cve/CVE-2019-1151?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1151?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2019-1144, CVE-2019-1145, CVE-2019-1149, CVE-2019-1150,...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists when the Windows font library improperly handles specially crafted embedded fonts, aka &amp;#x27;Microsoft Graphics Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from CVE-2019-1144, CVE-2019-1145, CVE-2019-1149, CVE-2019-1150,...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 14 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1929</title>
+            <link>https://vulners.com/cve/CVE-2019-1929?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1929?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist because the affected software improperly validates Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist because the affected software improperly validates Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 07 Aug 2019 22:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1926</title>
+            <link>https://vulners.com/cve/CVE-2019-1926?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1926?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist because the affected software improperly validates Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist because the affected software improperly validates Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 07 Aug 2019 22:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1924</title>
+            <link>https://vulners.com/cve/CVE-2019-1924?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1924?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist because the affected software improperly validates Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist because the affected software improperly validates Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 07 Aug 2019 22:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1927</title>
+            <link>https://vulners.com/cve/CVE-2019-1927?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1927?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist because the affected software improperly validates Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist because the affected software improperly validates Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 07 Aug 2019 22:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1928</title>
+            <link>https://vulners.com/cve/CVE-2019-1928?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1928?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist because the affected software improperly validates Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist because the affected software improperly validates Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 07 Aug 2019 22:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1925</title>
+            <link>https://vulners.com/cve/CVE-2019-1925?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1925?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist because the affected software improperly validates Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>Multiple vulnerabilities in Cisco Webex Network Recording Player for Microsoft Windows and Cisco Webex Player for Microsoft Windows could allow an attacker to execute arbitrary code on an affected system. The vulnerabilities exist because the affected software improperly validates Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by sending a user a malicious ARF or WRF file through a link or email attachment and persuading the user to open the file with the affected software on the local system. A successful exploit could allow the attacker to execute arbitrary code on the affected system with the privileges of the targeted...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Wed, 07 Aug 2019 21:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+        <item turbo="true">
+            <title>CVE-2019-1111</title>
+            <link>https://vulners.com/cve/CVE-2019-1111?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>https://vulners.com/cve/CVE-2019-1111?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</guid>
+            <description>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from...]]>
+            </description>
+            <turbo:content>
+                <![CDATA[<br/><img height="200" width="200" src="http://vulners.com/static/img/cve.png" alt="image" /><br/>A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka &amp;#x27;Microsoft Excel Remote Code Execution Vulnerability&amp;#x27;. This CVE ID is unique from...]]>
+            </turbo:content>
+            <category>cve</category>
+            <category>NVD</category>
+            <pubDate>Mon, 15 Jul 2019 19:15:00 GMT</pubDate>
+            <media:content medium="image" url="http://vulners.com/static/img/cve.png" />
+        </item>
+    </channel>
+</rss>
